@@ -7,4 +7,13 @@ body{
     font-size: 26px;
     color: #2c2c54;
     line-height: 1.7;
+    text-align: center;
+}
+h1{
+    color: black;
+}
+.container p{
+    text-align: left;
+    margin: auto;
+    max-width: 450px;
 }
