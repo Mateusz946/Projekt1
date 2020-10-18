@@ -1,0 +1,5 @@
+* Użycie autoprefixera
+$ autoprefixer-cli -o style.prefixed.css style.css
+
+* Użycie html-validate, który wyświetla listę błędów w pliku html.
+$ html-validate index.html

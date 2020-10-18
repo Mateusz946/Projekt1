@@ -1,0 +1,19 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inconsolata', monospace;
+    margin: 30px 40px;
+    font-size: 26px;
+    color: #2c2c54;
+    line-height: 1.7;
+    text-align: center;
+}
+h1{
+    color: rgb(31, 76, 136);
+}
+.container p{
+    text-align: left;
+    margin: auto;
+    max-width: 450px;
+}
